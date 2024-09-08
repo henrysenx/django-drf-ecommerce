@@ -1,0 +1,5 @@
+from .base import *
+
+ALLOWED_HOSTS = ['*']
+
+SECRET_KEY = 'zzd^%s)n)3*5h^$50z*q*yjzr6g5zd@5y7ku-3qn$^&8!bh0-#'
